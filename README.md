@@ -12,6 +12,16 @@
   yarn dev        
 ```  
 
+```  
+  cd web
+  yarn start
+```  
+
+```  
+  cd mobile
+  yarn start
+```  
+
 # Banco de Dados
 ```
 - Porta utilizada para realizar conexões; localhost:3333
