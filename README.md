@@ -6,20 +6,21 @@
 # Instalação:
 | Baixar os arquivos e realizar os procedimentos abaixo. |
 |--------------------------------------------------------|
--Backend
+
+- Backend
 ```
   cd backend      
   yarn install                                          
   yarn dev        
 ```  
 
--Frontend
+- Frontend
 ```  
   cd web
   yarn start
 ```  
 
--Mobile
+- Mobile
 ```  
   cd mobile
   yarn start
