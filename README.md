@@ -45,7 +45,6 @@
 |Ferramenta interessante para realizar os testes do backend do aplicação|
 |--------------------------------------------------------|
 - [insomnia](https://insomnia.rest/download/)
-|--------------------------------------------------------|
 
 
 
