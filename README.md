@@ -6,17 +6,20 @@
 # Instalação:
 | Baixar os arquivos e realizar os procedimentos abaixo. |
 |--------------------------------------------------------|
+-Backend
 ```
   cd backend      
   yarn install                                          
   yarn dev        
 ```  
 
+-Frontend
 ```  
   cd web
   yarn start
 ```  
 
+-Mobile
 ```  
   cd mobile
   yarn start
@@ -41,13 +44,8 @@
 |Ferramenta interessante para realizar os testes do backend do aplicação|
 |--------------------------------------------------------|
 - [insomnia](https://insomnia.rest/download/)
-<<<<<<< HEAD
-=======
+|--------------------------------------------------------|
 
-
-
-
->>>>>>> 7687d529061de8ea7faf3ec0eeb04ae684052752
 
 
 
