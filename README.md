@@ -46,6 +46,15 @@
 |--------------------------------------------------------|
 - [insomnia](https://insomnia.rest/download/)
 
+# Para executar
+* inicializar o MongoDb compass
+* inicializar o backend
+* inicializar web
+* inicializar mobile, usar o aplicativo expo no seu celular
+
+# Exemplo de excecução
+![](Captura%20de%20tela%20de%202020-11-11%2017-50-49.png)
+
 
 Por José Geraldo
 
